@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cecixx19 a brazilian designer
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning interactive UI
-- 💞️ I’m looking to collaborate on CSS
+- 💞️ I’m looking to collaborate on CSS + Java
 - 📫 How to reach me 
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I'm an organizer for a designers workers movement in my home state, Rio de Janeiro
